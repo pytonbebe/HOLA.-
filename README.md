@@ -1,27 +1,27 @@
 <h1 align="center">ANDERSON JAIR SILVA LÓPEZ</h1>
-<h3 align="center">Full Stack Developer | Software Engineering & Artificial Intelligence</h3>
+<h3 align="center">Desarrollador Full Stack | Ingeniería de Software e Inteligencia Artificial</h3>
 
 <p align="center">
-  I build web applications, REST APIs, and software that brings data and AI together.
-  Software Engineering with Artificial Intelligence graduate from SENATI, based in Peru.
+  Desarrollo aplicaciones web, APIs REST y soluciones que integran datos e inteligencia artificial.
+  Egresado de Ingeniería de Software con Inteligencia Artificial en SENATI. Vivo en Perú.
 </p>
 
 <p align="center">
   <a href="https://github.com/pytonbebe">GitHub</a>
 </p>
 
-## About
+## Sobre mí
 
-I'm a junior Full Stack Developer interested in building useful, reliable applications from frontend to backend. I enjoy learning new tools, solving problems, and collaborating with people who care about making good software.
+Soy desarrollador Full Stack junior y me interesa crear aplicaciones útiles y confiables, desde el frontend hasta el backend. Disfruto aprender nuevas herramientas, resolver problemas y colaborar con personas comprometidas con crear buen software.
 
-- **Focus:** Full Stack web development, REST APIs, databases, and AI integration
-- **Currently exploring:** Machine Learning and practical applications of LLMs
-- **Education:** Software Engineering with Artificial Intelligence, SENATI
-- **Location:** Peru
+- **Enfoque:** desarrollo web Full Stack, APIs REST, bases de datos e integración de inteligencia artificial
+- **Aprendiendo actualmente:** Machine Learning y aplicaciones prácticas de modelos de lenguaje (LLM)
+- **Formación:** Ingeniería de Software con Inteligencia Artificial, SENATI
+- **Ubicación:** Perú
 
-## Tech stack
+## Tecnologías
 
-### Frontend
+### Desarrollo frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -32,7 +32,7 @@ I'm a junior Full Stack Developer interested in building useful, reliable applic
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Backend and databases
+### Backend y bases de datos
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -45,7 +45,7 @@ I'm a junior Full Stack Developer interested in building useful, reliable applic
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### AI and tools
+### Inteligencia artificial y herramientas
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -55,27 +55,27 @@ I'm a junior Full Stack Developer interested in building useful, reliable applic
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Selected work
+## Proyectos destacados
 
-### Full Stack platform with AI
+### Plataforma Full Stack con inteligencia artificial
 
-A responsive web application with a Python/FastAPI backend, PostgreSQL database, and a machine-learning classification feature.
+Aplicación web adaptable con backend en Python y FastAPI, base de datos PostgreSQL y una función de clasificación con Machine Learning.
 
-### Management dashboard
+### Panel de gestión
 
-An interactive inventory and monitoring dashboard built around REST APIs, with Docker-based containerization.
+Panel interactivo para gestionar inventario y monitorear información mediante APIs REST, con contenedorización usando Docker.
 
-### Personal portfolio
+### Portafolio personal
 
-A portfolio website built with React, Vite, and Tailwind CSS.
+Sitio web personal creado con React, Vite y Tailwind CSS.
 
-## GitHub
+## Mi actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pytonbebe&show_icons=true&hide_border=true&theme=transparent" alt="Anderson's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pytonbebe&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pytonbebe&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas de GitHub de Anderson" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pytonbebe&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes de programación más usados" />
 </p>
 
 ---
 
-<p align="center">Open to learning, collaborating, and building useful software.</p>
+<p align="center">Siempre dispuesto a aprender, colaborar y crear software útil.</p>
